@@ -1,6 +1,6 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
 
-# 🚚 Sistema de Gestión de Pedidos
+# 🧠 Actividad Formativa 1 – Explorando la sobrecarga y sobrescritura en clases derivadas
 
 ## 👤 Autor del proyecto
 
